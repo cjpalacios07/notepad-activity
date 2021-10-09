@@ -1,0 +1,76 @@
+#classic {
+  padding: 1em;
+  font-weight: bold;
+  text-align: justify;
+  margin-left: 5em;
+
+}
+
+
+
+#modern {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fed700;
+  padding: 1em;
+  font-weight: bold;
+  justify-content: center;
+  margin-left: 5em;
+  
+
+}
+
+#impact {
+  text-align: center;
+  font-family:;
+  padding: 1em;
+  border: 0.5em double black;
+  background-color: lightgreen;
+  outline: 0.5px solid black;
+  margin-left: 5em;
+}
+
+#elise {
+  text-align: center;
+  font-family: comic sans-serif;
+  box-shadow: 5px 5px 5px grey;
+  background-color: floralwhite;
+  padding: 1.5em;
+  border: inset 3px #a69c8f;
+
+}
+
+#one, #two  {
+  display:inline-block;
+  padding: 1em;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #7efed4;
+  border: outset 5px #34ecd1;
+  margin-left: 2.5em;
+  margin-top: 6em;
+
+
+}
+
+#gaudi {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 1em;
+  background-color: #f8ac8b;
+  border-radius: 15px 50px;
+  box-shadow: 2px 2px 2px grey;
+  font-weight: bold;
+  margin-left: 5em;
+}
+
+section, form{
+  text-align: center;
+  min-height: 12.5em;
+  display: block;
+  
+
+}
+
+
+
